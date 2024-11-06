@@ -4,5 +4,6 @@ Exec=taigo
 Icon=com.github.appadeia.Taigo
 Terminal=false
 Type=Application
-Categories=GTK;
+Categories=GTK;Game;
+Keywords=Virtual Pet;Game;Digital Pet;
 StartupNotify=true
